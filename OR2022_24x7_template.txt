@@ -18,12 +18,12 @@ Audience
 Tell us in a sentence or two who is the likely audience for this. Some examples might be repository managers, developers, data producers, librarians, etc.
 
 Proposal (no longer than a page)
-¥ Tell us what you will cover in the presentation. Why will your topic be of interest to the intended audience? Successful 24?7 presentations have a clear focus on one idea and a narrower focus than a 30 minute presentation. Talks about failures and lessons learnt are highly encouraged.
+- Tell us what you will cover in the presentation. Why will your topic be of interest to the intended audience? Successful 24?7 presentations have a clear focus on one idea and a narrower focus than a 30 minute presentation. Talks about failures and lessons learnt are highly encouraged.
 
 
-¥ If your 24x7 presentation is very technical it may be more appropriate for the DeveloperÕs Track.
-¥ Remember, 24x7 presentations are short (7-minute) presentations.
-¥ Your proposal should be in English and no longer than a page.
+- If your 24x7 presentation is very technical it may be more appropriate for the DeveloperÕs Track.
+- Remember, 24x7 presentations are short (7-minute) presentations.
+- Your proposal should be in English and no longer than a page.
 
 References, if applicable
 
