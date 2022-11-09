@@ -1,0 +1,22 @@
+OR2023 24x7 Track Submission 
+18th International Open Repositories Conference, 12-15 June 2023 Stellenbosch, South Africa
+For authors: Follow the directions in italics and where appropriate replace with your own content.
+
+A reminder that the theme for OR2023 is “Repositories Unlocked for Discovery and Interoperability”. The OR2023 conference will focus on the practices of the international repositories community to develop and implement the standards, frameworks, architectures, and methodologies for open repositories to serve as knowledge representation databases for the structured web of data. See the Call for Proposals for more detail on the themes. You will be asked to select a sub-theme at the time of submission.Title of Proposal
+Author 1 name, affiliation, email address; Author 2 name, affiliation, email address
+Abstract
+Summary of your proposal; maximum 200 words. The abstract should be a concise summary of the background, problem, approach and conclusions of the work described. You will copy and paste this into the submission system at the time of submission.
+Keywords
+List 3-4 key terms or phrases that describe the subject of the proposal.
+Audience
+Tell us in a sentence or two who is the likely audience for this. Some examples might be repository managers, developers, data producers, librarians, etc.
+Proposal (no longer than a page)
+• Tell us what you will cover in the presentation. Why will your topic be of interest to the intended audience? Successful 24×7 presentations have a clear focus on one idea and a narrower focus than a 30 minute presentation. Talks about failures and lessons learnt are highly encouraged.
+• If your 24x7 presentation is very technical it may be more appropriate for the Developer’s Track.
+• Remember, 24x7 presentations are short (7-minute) presentations.
+• Your proposal should be in English and no longer than a page.
+References, if applicable
+Use any clear unambiguous reference style you like.
+1
+
+

@@ -1,0 +1,22 @@
+OR2023 Developer Track Submission 
+
+18th International Open Repositories Conference, 12-15 June 2023 Stellenbosch, South Africa
+For authors: Follow the directions in italics and where appropriate replace with your own content.
+
+A reminder that the theme for OR2023 is ““Repositories Unlocked for Discovery and Interoperability”. The OR2023 conference will focus on the practices of the international repositories community to develop and implement the standards, frameworks, architectures, and methodologies for open repositories to serve as knowledge representation databases for the structured web of data. See the Call for Proposals for more detail on the themes. You will be asked to select a sub-theme at the time of submission.Title of Proposal
+Author 1 name, affiliation, email address; Author 2 name, affiliation, email address
+Abstract
+Summary of your proposal; maximum 200 words. The abstract should be a concise summary of the background, problem, approach and conclusions of the work described. You will copy and paste this into the submission system at the time of submission.
+Keywords
+List 3-4 key terms or phrases that describe the subject of the proposal.
+Proposal (no longer than one page)
+? Please describe what you propose to cover. Keep in mind that the Developer Track presentations tend to be about 15-20 minutes. We encourage live demonstrations, tours of code repositories, examples of cool features, and the sharing of unique viewpoints.
+? Please include what technologies you will cover or reference.
+? The proposal should be in English and be no longer than a page.
+Technical Requirements
+• Include any requirements you will need for your presentation (for example, wi-fi, etc.)
+References, if applicable
+Use any clear unambiguous reference style you like.
+1
+
+

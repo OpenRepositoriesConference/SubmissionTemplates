@@ -1,0 +1,26 @@
+OR2023 Panel Submission 
+18th International Open Repositories Conference, 12-15 June 2023 Stellenbosch, South Africa
+For authors: Follow the directions in italics and where appropriate replace with your own content.
+
+A reminder that the theme for OR2023 is “Repositories Unlocked for Discovery and Interoperability”. The OR2023 conference will focus on the practices of the international repositories community to develop and implement the standards, frameworks, architectures, and methodologies for open repositories to serve as knowledge representation databases for the structured web of data. See the Call for Proposals for more detail on the themes. You will be asked to select a sub-theme at the time of submission.Title of Proposal
+Author 1 name, affiliation, email address; Author 2 name, affiliation, email address
+Abstract
+Summary of your proposal; maximum 200 words. The abstract should be a concise summary of the background, problem, approach and conclusions of the work described. You will copy and paste this into the submission system at the time of submission.
+Keywords
+List 3-4 key terms or phrases that describe the subject of the proposal.
+Audience
+Tell us in a sentence or two who is the likely audience for this. Some examples might be repository managers, developers, data producers, librarians, etc.
+Time
+Please select a preferred time period.
+? 60 minutes 
+? 90 minutes
+Proposal (No more than 3 pages)
+• Tell us what will be covered in this panel. Why will your topic be of interest to the intended audience? Include figures and images if they will help reviewers evaluate the proposal content.
+• Outline how you envision each panelist contributing to the overall discussion and why their perspective will be distinctive. All panels are expected to include diversity in viewpoints, personal background, and gender of the panelists.
+• Are you planning to engage your audience in some way during the panel?
+• All proposals should be in English and 2-3 pages in length.
+References, if applicable
+Use any clear unambiguous reference style you like.
+1
+
+
